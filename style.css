@@ -29,6 +29,13 @@ img {
     width: 100%;
 }
 
+p {
+    font-size: 20px;
+    color: yellow;
+    font-family: 'Rubik Mono One', sans-serif;
+    text-align: center;
+}
+
 /* content */
 .shoe1 {
     background-color: red;
@@ -44,3 +51,9 @@ img {
     background-color: yellow;
     position: relative;
 }
+
+.contrast {
+    color: green;
+}
+
+
